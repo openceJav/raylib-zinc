@@ -1,9 +1,8 @@
-# Raylib Starter
+# Raylib - Zinc
 
-Starter template for building games with the Raylib Golang bindings.
+Re-imagined 
 
-## Dependencies
 
-* [Golang](https://golang.org/)
-* [Raylib](https://www.raylib.com/) `go get github.com/gen2brain/raylib-go/raylib`
-* [Git LFS](https://git-lfs.github.com/) (for storing asset files)
+## Reference
+
+- [Raylib - Nikki93](https://github.com/nikki93/raylib-5k)
