@@ -26,21 +26,40 @@ Tasks should also be assigned to people using the `@USERNAME` format,
 and tagged with any appropriate labels using the `#TAG` format.
 
 ## IN PROGRESS
-
-**NOTE**: Any task that is currently being worked on should 
+> **NOTE**: Any task that is currently being worked on should 
 be included within this section.
 
-## BACKLOG
+- [ ] Non Functional Requirements Specification
+- [ ] Functional Requirements Specification
+- [ ] Internal Logic and Tooling Documentation
+- [ ] Store each Document into `docs/` Directory
+- [ ] Develop 3D Assets for the Following:
+  - [ ] **Character Models**
+    - [ ] Chica, Bonnie, Foxy, Freddy
+    - [ ] [BACKUP] Chica, [BACKUP] Bonnie, [BACKUP] Foxy, [BACKUP] Freddy
+    - [ ] Security Guard (You)
+    - [ ] Bare Endoskeleton's
+    - [ ] Puppet Master
+  - [ ] **Environmental Assets**
+    - [ ] Barricades
+    - [ ] Doors
+    - [ ] Reusable Hallways and Rooms
+    - [ ] Office Desk
+    - [ ] Telephone
+    - [ ] Security Cameras
+    - [ ] Security Room
+    - [ ] Power Generator
+    - [ ] Power Box
+    - [ ] Music Box (Puppet Master)
 
-**NOTE**: Any task that is not currently being worked on should be 
+## BACKLOG
+> **NOTE**: Any task that is not currently being worked on should be 
 included and referenced within this section.
 
 ## DONE
-
-**NOTE**: Any completed tasks or near completion tasks should be 
+> **NOTE**: Any completed tasks or near completion tasks should be 
 included within this section.
 
 ## ARCHIVED
-
-**NOTE**: Any tasks that are no longer relevant or have been replaced 
+> **NOTE**: Any tasks that are no longer relevant or have been replaced 
 should be included within this section.
