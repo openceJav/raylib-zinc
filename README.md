@@ -1,10 +1,14 @@
-# FNAF: [Insert Proper Name Here]
+# Fnaf Mini-Game [Name]
 
 ## Description
 
+## Table of Contents
 
+## Installation
 
+## Usage
 
+## 
 
 ## Reference
 
