@@ -50,7 +50,8 @@ func NewGame() (g Game) {
 	return
 }
 
-// On Android this sets callback function to be used for android_main
+// func::init
+// Initializes the game state and all its components (android_main).
 func init() {
 	rl.SetCallbackFunc(main)
 }
